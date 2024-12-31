@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm JeWookRyu(류제욱)</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B9E9C0&background=63D4FF00&width=435&lines=The+darkest+hours+are+just+before+dawn.;send+me+an+Instagram+DM.+w_o.ok97;No+sweat%2C+No+sweet.;No+bees%2C+no+honey." alt="Typing SVG" /></a>
 </div>
