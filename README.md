@@ -4,7 +4,7 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jewookryou&label=Profile%20views&color=0e75b6&style=flat" alt="jewookryou" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: 🔗</h3>
 <p align="center">
 <a href="https://instagram.com/w_o.ok97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w_o.ok97" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/channel/uccq-neipsjlxhrzzcmktd3w?si=6yz--w_b7ybxaqxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uccq-neipsjlxhrzzcmktd3w?si=6yz--w_b7ybxaqxy" height="30" width="40" /></a>
@@ -29,16 +29,7 @@ String work = "full-stack";
 }
 ```
 
-### Connect with me 🔗 :
-<br>
-<p align='center'>
-<a href="racimo.715@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/dev.bella" target="_blank">
-<img src="https://img.shields.io/badge/dev.bella-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-</p>
-<br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
@@ -51,7 +42,6 @@ String work = "full-stack";
 - **Languages**:
 
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
@@ -73,9 +63,7 @@ String work = "full-stack";
   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=MySQL&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-      ![Github](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![AWS Cloud](https://img.shields.io/badge/AWS%20cloud-%23327FC7.svg?style=for-the-badge&logo=aws&logoColor=white)
-    ![gitscm](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+   ![Github](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
@@ -88,38 +76,15 @@ String work = "full-stack";
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black) 
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Slack](https://img.shields.io/badge/slack-%F24E1E.svg?style=for-the-badge&logo=slack&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 <br>
 
-### My GitHub stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=freshsong&theme=flat&column=7)](https://github.com/freshsong/github-profile-trophy)
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=freshsong&count_private=true&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshsong&layout=compact" />
-
-</p>
-
-
-
-<img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <br>
 <br>
