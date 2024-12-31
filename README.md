@@ -16,14 +16,14 @@
 ```java 
 public class Songe {
  public static void main(String[] args) {
-String name = "SongE_Choi";
-int year = 1991;
-int age = 34;
+String name = "JeWook_Ryu";
+int year = 1997;
+int age = 29;
 String language = "java";
 String work = "full-stack";
- String location = "Gimpo. SouthKorea";
- String github = "@freshsong";
- String web = "https://github.com/freshsong";
+ String location = "Seoul. SouthKorea";
+ String github = "@JeWookRyu";
+ String web = "https://github.com/JeWookRyu";
  }
 }
 ```
