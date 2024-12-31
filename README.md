@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JeWookRyou(류제욱)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B9E9C0&background=63D4FF00&width=435&lines=The+darkest+hours+are+just+before+dawn.;send+me+an+Instagram+DM.+w_o.ok97;No+sweat%2C+No+sweet.;No+bees%2C+no+honey." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jewookryou&label=Profile%20views&color=0e75b6&style=flat" alt="jewookryou" /> </p>
 
